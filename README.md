@@ -48,7 +48,6 @@ Este repositorio contiene:
 ---
 
 ## 🚀 Cómo contribuir  
-¿Eres compañero/a de clase? ¡Puedes:  
 - ✏️ Corregir errores en los apuntes.  
 - ➕ Agregar ejemplos o código.  
 - 📚 Compartir recursos útiles.  
@@ -64,7 +63,6 @@ Este material es de uso educativo.
 ---
 
 ## 📧 Contacto  
-**Tu Nombre**  
 - ✉️ Email: fabiolay.acosta@ssteam.com.mx
 - 🔗 LinkedIn: [Fabiola Acosta]( https://www.linkedin.com/in/yetlanetzi-fabiola-a-b94a942a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 GitHub: @Yfabiolaa
